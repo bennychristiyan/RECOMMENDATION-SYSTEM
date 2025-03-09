@@ -121,3 +121,4 @@ The notebook is implemented in **Python** using **Jupyter Notebook**, leveraging
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/cfb529f6-7370-4e1e-a4a9-7664abf3ccd8)
